@@ -1,0 +1,20 @@
+body{
+
+
+}
+.nav li {
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 0px;
+    font-family: sans-serif;
+}
+.opo{
+    margin-left: -120px;
+    
+}
+.opos{
+    margin-left: 175px;
+}
+.opoe{
+    margin-left: 120px;
+}
